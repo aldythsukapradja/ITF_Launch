@@ -68,6 +68,11 @@ section {
     right: 0;
     top: 0; }
 
+.comments {
+	width: 70%;
+	margin-left: auto;
+}
+
 .hidden {
   visibility: hidden; }
 
